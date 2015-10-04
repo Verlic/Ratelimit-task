@@ -6,7 +6,7 @@ If you work with the [GitHub API](https://developer.github.com/v3/), knowing you
 
 So, I have my script to call the API and check my rate limit but sometimes I don't have it with me. That's why I created a **Webtask** from https://webtask.io/ to solve this. 
 
-My script is exposed via URL and I can use it to monitor my rate limit anytime. Or I could use an API monitoring tool that constantly checks the limit and notifies me if the value reach a specific limit.
+My script is exposed via URL and I can use it to monitor my rate limit anytime. Or I could use an API monitoring tool that constantly checks the limit and notifies me if the value reaches a specific limit.
 
 ## How can I use it?
 
